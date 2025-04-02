@@ -1,0 +1,4 @@
+[completed] make tea
+go gym
+study
+[completed] bath
